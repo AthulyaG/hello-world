@@ -1,2 +1,4 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello, Welcome all !!! </h1>
+
+<h2> Have a good day.... </h2>
 
